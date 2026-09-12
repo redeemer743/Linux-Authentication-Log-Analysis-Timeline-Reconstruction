@@ -2,8 +2,8 @@
 
 * **Date of Analysis:** September 12, 2026
 * **Operating System:** Linux Mint
-* **System Hostname:** `mint-virtual-machine`
-* **Defensive Toolset:** `journalctl`, `grep`, `tail`
+* **System Hostname:** mint-virtual-machine
+* **Defensive Toolset:** journalctl, grep, tail
 * **Status:** Assignment Completed Successfully
 
 ---
